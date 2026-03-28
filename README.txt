@@ -1,0 +1,1 @@
+Use Codemagic or Flutter build apk
